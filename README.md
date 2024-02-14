@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShoM26
-- 👀 I’m interested in Data Visualization and Computer Programming
-- 🌱 I’m currently learning Data Visualization and furthering my knowledge in many programming languages
+- 👋 Hi, I’m Merrick Shorter
+- 👀 I’m interested in Computer Programming and Data Visualization
+- 🌱 I’m currently aiming to be proficient in C++/Java/Python/Assembly Language/SQL and mastering Tableau
 - 📫 How to reach me mlshorter17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
