@@ -25,6 +25,9 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 - Relational Databases
 - Deep Learning
 - CNN/DNN Neural Networks
+- OOP
+- Algorithms
+- Data Structures
 - Data Analytics
 
 ## 🌟 Featured Project
