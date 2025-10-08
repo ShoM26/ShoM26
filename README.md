@@ -55,10 +55,10 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 - **Problem Solver:** Passionate about creating practical solutions that make everyday life easier
 - **Full-Stack Mindset:** Comfortable working across the entire development stack
 
-## 🎯 Currently Learning
+## 🎯 Currently Exploring
 
-- Advanced React patterns and state management
-- Websocket Mastery
+- Public API usage
+- HWT OCR models
 - Full-stack architecture 
 
 ## 📫 Let's Connect!
