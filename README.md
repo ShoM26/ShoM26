@@ -16,7 +16,6 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 - C++
 - Python
 - SQL
-- React
 - Java
 - JavaScript
 - R
@@ -70,7 +69,3 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 ---
 
 *Contemplare et contemplata aliis tradere*
-<!---
-ShoM26/ShoM26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
