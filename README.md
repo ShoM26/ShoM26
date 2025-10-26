@@ -5,7 +5,7 @@
 I'm a senior Computer Science major in the Honors Program at Ohio Dominican University and an aspiring software developer
 
 🎓 **Education:** Computer Science (Honors Program) - Ohio Dominican University  
-🏃‍♂️ **Athlete:** NCAA XC & TF - Balancing code and competition  
+🏃‍♂️ **Athlete:** NCAA XC & TF   
 🌱 **Currently Building:** Plant care application to help users optimize watering schedules  
 💡 **Interests:** Full-stack development, user-centered design, and solving real-world problems through technology
 
@@ -58,7 +58,8 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 
 - Public API usage
 - HWT OCR models
-- Full-stack architecture 
+- Full-stack architecture
+- Bluetooth implementation 
 
 ## 📫 Let's Connect!
 
