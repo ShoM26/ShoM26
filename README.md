@@ -39,6 +39,7 @@ I'm a senior Computer Science major in the Honors Program at Ohio Dominican Univ
 - Smart watering recommendations based on plant type
 - User-friendly dashboard for plant management
 - Real-time notifications and reminders
+- Front-end, Back-end, and database deployed to the cloud
 
 **Tech Stack:**
 - Frontend: React, CSS3, JavaScript
