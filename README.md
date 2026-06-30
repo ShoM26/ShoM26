@@ -4,6 +4,8 @@
 
 I'm a recent computer science grad and aspiring software developer
 
+Currently Principle Web Developer for Sustainable Dublin Ohio 501c3 (pending)
+
 🎓 **Education:** Computer Science (Honors Program) - Ohio Dominican University  
 🏃‍♂️ **Athlete:** NCAA XC & TF   
 🌱 **Have Built:** Plant care application to help users optimize watering schedules
