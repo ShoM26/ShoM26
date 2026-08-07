@@ -6,7 +6,7 @@ I'm a recent computer science grad and aspiring software developer
 
 Currently Principle Web Developer for Sustainable Dublin Ohio 501c3 (pending)
 
-🎓 **Education:** Computer Science (Honors Program) - Ohio Dominican University  
+🎓 **Education:** Computer Science (Honors Program) (Choose Ohio First Scholar) - Ohio Dominican University  
 🏃‍♂️ **Athlete:** NCAA XC & TF   
 🌱 **Have Built:** Plant care application to help users optimize watering schedules
 
@@ -17,21 +17,17 @@ Currently Principle Web Developer for Sustainable Dublin Ohio 501c3 (pending)
 ## 🔧 Technologies & Tools
 
 **Languages** 
-- C#
-- C++
-- Python
+- C# .NET
 - SQL
-- Java
 - JavaScript
-- R
+- Python
+- C++
 
 **Concepts**
 - Relational Databases
 - Deep Learning
 - CNN/DNN Neural Networks
-- OOP
 - Algorithms
-- Data Structures
 - Data Analytics
 
 ## 🌟 Featured Project
@@ -63,14 +59,12 @@ Currently Principle Web Developer for Sustainable Dublin Ohio 501c3 (pending)
 ## 🎯 Currently Exploring
 
 - Public API usage
-- Agentic AI
-- Bluetooth implementation 
+- Bluetooth implementation
 
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/merrick-shorter/)
 - 📧 **Email:** mlshorter17@gmail.com
-- 💡 **Fun Fact:** The idea of errors in code being bugs is because Grace Hopper discovered a moth in her computer in the 1940s
 
 ---
 
