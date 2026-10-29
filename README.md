@@ -2,16 +2,12 @@
 
 ## About Me
 
-I'm a recent computer science grad and aspiring software developer
+I am a full-stack developer currently working for Sustainable Dublin Ohio 501(c)(3) (pending)
+as well as Columbus Running Company. A lot of my work may be stuffed behind private repositories.
 
-Currently Principle Web Developer for Sustainable Dublin Ohio 501c3 (pending)
-
-🎓 **Education:** Computer Science (Honors Program) (Choose Ohio First Scholar) - Ohio Dominican University  
-🏃‍♂️ **Athlete:** NCAA XC & TF   
+🎓 **Education:** Computer Science (Honors Program) (Choose Ohio First Scholar) - Ohio Dominican University    
 🌱 **Have Built:** Plant care application to help users optimize watering schedules
-
-💻 **Currently Building** Informational Website for Sustainable Dublin Ohio a non-profit
-
+💻 **Currently Building** Website for Sustainable Dublin Ohio a non-profit
 💡 **Interests:** Full-stack development, user-centered design, and solving real-world problems through technology
 
 ## 🔧 Technologies & Tools
