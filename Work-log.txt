@@ -1,3 +1,5 @@
 10/29/26 - Starting to take better notes of the work I am doing. In light of the recent lack of jobs willing to hire real entry level talent, I just have to pull myself up from my bootstraps and take what I am during part time seriously. That means putting in 40 hour weeks between CRC and SDO and just getting to work. Started off hot today. Got most of the front end for the registration script for the eco summit created.
 
 10/30/26 - Worked on the google script side of the registration for the eco summit. Will probably have to shift it over to the sdo email however I will test here first.
+
+10/31/26 - Education and outreach! that is our purpose. Sat in on the meeting with the new treasurer while getting down to business. Connected the modal and webpage today. Deployed the script on my personal account. Going to have to think hard about the deployment on the sdo email for security concerns and such. Really impressed with what's going on at the moment. just did a dry run of the full registration and google says no errors, its returning successful but the error is reading network error. Gonna have to check it out some other time.
