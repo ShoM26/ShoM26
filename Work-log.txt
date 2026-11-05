@@ -7,3 +7,5 @@
 11/2/26 - Massive day for me, so many wins. First real run back, found out I have an interview at McGraw Hill for a developer position, and got this registration working. Going to have to error and stress test it for sure before releasing it but got it working and thats major for now. Goal was to have it completely live by the AMI Plastics Recycling Convention next week and it looks like that will be very feasible.
 
 11/3/26 - Got flu shots yesterday and it took me out today with a massive headache. I received information that I have another interview next Friday and I am unsure how tomorrow's interview will go because I have no information about the format.
+
+11/4/26 - Had my interview with McGraw hill today and I think it went well. Afterwards I had work where I didn't see a single customer so I spent a good amount of time ensuring the ticketing system works as intended. We are close to an inital release which is major.
