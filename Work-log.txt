@@ -9,3 +9,5 @@
 11/3/26 - Got flu shots yesterday and it took me out today with a massive headache. I received information that I have another interview next Friday and I am unsure how tomorrow's interview will go because I have no information about the format.
 
 11/4/26 - Had my interview with McGraw hill today and I think it went well. Afterwards I had work where I didn't see a single customer so I spent a good amount of time ensuring the ticketing system works as intended. We are close to an inital release which is major.
+
+11/5/26 - I got offered the job at McGraw Hill. One of the most influential days of my life with respect to opening up opportunities. Very emotional day thought through some security with respect to the sdo ticketing feature. Feeling very validated today.
