@@ -23,3 +23,7 @@
 11/11/26 - First day of plastics convention. Learning a lot about this industry that I didn't know before.
 
 11/12/26 - Second day of plastics convention. Really absorbed a lot I learned the day before I appreciate the better understanding I have of the plastics/plastics recycling industry now. While discussing SDO goals and ideas we floated the idea that I could make a local activity aggregator for SWACO or possibly us. Long term plan but exciting to see where it could go. Got some big things in the pipeline and very excited for every step of the way
+
+11/13/26 - Looked into improving the CI/CD pipeline
+
+11/15/26 - First Sustainable Dublin Ohio meeting today went very well. Had a lot to talk about but got through it and enjoyed some celebratory champagne and cake afterwards
